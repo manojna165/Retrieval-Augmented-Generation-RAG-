@@ -49,7 +49,7 @@ Open http://127.0.0.1:8000/docs
 
 ## Example Request
 {
-  "question": "What is the Transformer architecture?",
+  "question": "What is the difference between Augmented Reality and Virtual Reality?",
   "top_k": 4
 }
 
