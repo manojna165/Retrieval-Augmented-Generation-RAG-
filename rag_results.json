@@ -1,0 +1,104 @@
+[
+  {
+    "question": "How do motion tracking and sensors work in surgical simulation?",
+    "answer": "Motion tracking systems capture user movements and translate them into actions within the virtual environment. Sensors such as gyroscopes, accelerometers, infrared cameras, and depth sensors detect head position, hand movement, and instrument orientation. The tracking data is processed to determine spatial coordinates and rotational angles, updating the user's viewpoint and tool position in real time.",
+    "sources": [
+      {
+        "document": "ar_vr_medical_training.pdf",
+        "page": 17,
+        "chunk_id": "chunk_59",
+        "distance": 0.2415,
+        "text": "Motion tracking systems capture user movements. Sensors such as gyroscopes, accelerometers, infrared cameras, and depth sensors detect head position, hand movement, and instrument orientation."
+      },
+      {
+        "document": "ar_vr_medical_training.pdf",
+        "page": 22,
+        "chunk_id": "chunk_77",
+        "distance": 0.3165,
+        "text": "Motion tracking helps ensure accurate interaction with virtual surgical tools and anatomical models."
+      },
+      {
+        "document": "ar_vr_medical_training.pdf",
+        "page": 17,
+        "chunk_id": "chunk_60",
+        "distance": 0.3417,
+        "text": "Tracking data determines spatial coordinates and rotational angles and updates viewpoint and tool position in real time."
+      },
+      {
+        "document": "ar_vr_medical_training.pdf",
+        "page": 17,
+        "chunk_id": "chunk_57",
+        "distance": 0.3419,
+        "text": "Surgical simulation integrates computational models, real-time tracking, rendering engines, and feedback systems."
+      }
+    ]
+  },
+  {
+    "question": "How can AR and VR improve patient safety during surgical training?",
+    "answer": "AR and VR provide controlled, risk-free environments where trainees can practice repeatedly, analyze errors, and improve their skills without harming actual patients. They reduce reliance on real patients during early training and help learners gain experience and confidence before performing procedures on real patients.",
+    "sources": [
+      {
+        "document": "ar_vr_medical_training.pdf",
+        "page": 5,
+        "chunk_id": "chunk_15",
+        "distance": 0.1743,
+        "text": "AR and VR simulation systems provide risk-free environments where trainees can practice repeatedly, analyze errors, and improve skills without harming patients."
+      },
+      {
+        "document": "ar_vr_medical_training.pdf",
+        "page": 6,
+        "chunk_id": "chunk_19",
+        "distance": 0.1765,
+        "text": "AR and VR simulation systems can enhance skill acquisition, improve confidence, and support patient safety."
+      },
+      {
+        "document": "ar_vr_medical_training.pdf",
+        "page": 5,
+        "chunk_id": "chunk_16",
+        "distance": 0.1895,
+        "text": "Immersive technologies reduce dependence on real patients during early training and allow practice under standardized conditions."
+      },
+      {
+        "document": "ar_vr_medical_training.pdf",
+        "page": 11,
+        "chunk_id": "chunk_34",
+        "distance": 0.1954,
+        "text": "Simulations let trainees practice repeatedly, refine techniques, and gain confidence before performing procedures on actual patients."
+      }
+    ]
+  },
+  {
+    "question": "What is the population of India according to this report?",
+    "answer": "The provided documents do not contain enough information to answer this question.",
+    "sources": [
+      {
+        "document": "ar_vr_medical_training.pdf",
+        "page": 18,
+        "chunk_id": "chunk_64",
+        "distance": 0.9072,
+        "text": "The haptic system operates through a feedback loop in a surgical simulation."
+      },
+      {
+        "document": "ar_vr_medical_training.pdf",
+        "page": 22,
+        "chunk_id": "chunk_79",
+        "distance": 0.9445,
+        "text": "The system records parameters such as accuracy, speed, tool handling, and procedural efficiency."
+      },
+      {
+        "document": "ar_vr_medical_training.pdf",
+        "page": 19,
+        "chunk_id": "chunk_65",
+        "distance": 0.95,
+        "text": "Haptic feedback helps trainees develop muscle memory and fine motor skills."
+      },
+      {
+        "document": "ar_vr_medical_training.pdf",
+        "page": 23,
+        "chunk_id": "chunk_84",
+        "distance": 0.9625,
+        "text": "Immersive technologies may play an increasingly important role in healthcare and medical training."
+      }
+    ]
+  }
+]
