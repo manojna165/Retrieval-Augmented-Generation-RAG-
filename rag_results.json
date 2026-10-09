@@ -1,69 +1,69 @@
 [
   {
     "question": "How do motion tracking and sensors work in surgical simulation?",
-    "answer": "Motion tracking systems capture user movements and translate them into actions within the virtual environment. Sensors such as gyroscopes, accelerometers, infrared cameras, and depth sensors detect head position, hand movement, and instrument orientation. The tracking data is processed to determine spatial coordinates and rotational angles, updating the user's viewpoint and tool position in real time.",
+    "answer": "Based on the provided context, motion tracking systems capture user movements and translate them into corresponding actions within the virtual environment (pages 17 and 22). AR/VR surgical simulators use sensors—such as gyroscopes, accelerometers, infrared cameras, and depth sensors—to detect head position, hand movement, and instrument orientation (page 17).\n\nThis tracking data is then processed to determine spatial coordinates and rotational angles, which updates the user's viewpoint and tool position in real time, ensuring accurate interaction with virtual surgical tools and anatomical models (pages 17 and 22).",
     "sources": [
       {
         "document": "ar_vr_medical_training.pdf",
         "page": 17,
         "chunk_id": "chunk_59",
         "distance": 0.2415,
-        "text": "Motion tracking systems capture user movements. Sensors such as gyroscopes, accelerometers, infrared cameras, and depth sensors detect head position, hand movement, and instrument orientation."
+        "text": ". Advanced systems incorporate deformable models that allow tissues to stretch, compress, or respond dynamically during simulated procedures. Accurate anatomical modeling ensures that the virtual environment closely represents real human anatomy, which is essential for effective surgical training. 7.2 Motion Tracking and Sensors Motion tracking systems are responsible for capturing user movements and translating them into corresponding actions within the virtual environment. AR/VR surgical simulators use sensors such as gyroscopes, accelerometers, infrared cameras, and depth sensors to detect head position, hand movement, and instrument orientation. The tracking data is processed to determine spatial coordinates and rotational angles"
       },
       {
         "document": "ar_vr_medical_training.pdf",
         "page": 22,
         "chunk_id": "chunk_77",
         "distance": 0.3165,
-        "text": "Motion tracking helps ensure accurate interaction with virtual surgical tools and anatomical models."
+        "text": ". VR systems, on the other hand, create fully immersive digital environments that replicate real operating rooms and medical scenarios, allowing trainees to perform simulated procedures in a controlled and risk-free setting. Advanced technologies such as three-dimensional anatomical modeling, motion tracking, real-time rendering, physics-based simulation, and haptic feedback play an important role in making these simulations realistic and effective. Motion tracking systems capture the movements of the user and translate them into corresponding actions in the virtual environment, ensuring accurate interaction with virtual surgical tools and anatomical models"
       },
       {
         "document": "ar_vr_medical_training.pdf",
         "page": 17,
         "chunk_id": "chunk_60",
         "distance": 0.3417,
-        "text": "Tracking data determines spatial coordinates and rotational angles and updates viewpoint and tool position in real time."
+        "text": "The tracking data is processed to determine spatial coordinates and rotational angles. This information updates the user’s viewpoint and tool position in real time. High tracking accuracy is essential to maintain immersion and prevent latency-related discomfort. In surgical training, even minor inaccuracies in"
       },
       {
         "document": "ar_vr_medical_training.pdf",
         "page": 17,
         "chunk_id": "chunk_57",
         "distance": 0.3419,
-        "text": "Surgical simulation integrates computational models, real-time tracking, rendering engines, and feedback systems."
+        "text": "7. TECHNICAL WORKING OF SURGICAL SIMULATION The technical working of AR/VR-based surgical simulation systems involves the integration of advanced computational models, real-time tracking mechanisms, rendering engines, and feedback systems. These technologies collectively create immersive environments that replicate real surgical procedures with high precision. The system processes medical data, interprets user input, simulates anatomical behavior, and generates interactive visual and tactile responses. This chapter explains the core technical components that enable realistic surgical simulation. 7.1 3D Anatomical Modeling Three-dimensional anatomical modeling forms the foundation of surgical simulation systems"
       }
     ]
   },
   {
     "question": "How can AR and VR improve patient safety during surgical training?",
-    "answer": "AR and VR provide controlled, risk-free environments where trainees can practice repeatedly, analyze errors, and improve their skills without harming actual patients. They reduce reliance on real patients during early training and help learners gain experience and confidence before performing procedures on real patients.",
+    "answer": "Based on the provided documents, AR and VR improve patient safety during surgical training in the following ways:\n\n* They provide risk-free, controlled virtual environments where trainees can practice repeatedly, analyze errors, and refine their techniques without harming actual patients (pages 5 and 11).\n* They reduce the dependency on real patients during the early stages of training (page 5).\n* They allow beginners to gain experience, build confidence, and improve their skills before performing procedures on real patients, thereby preventing medical errors caused by limited experience (pages 5 and 11).",
     "sources": [
       {
         "document": "ar_vr_medical_training.pdf",
         "page": 5,
         "chunk_id": "chunk_15",
         "distance": 0.1743,
-        "text": "AR and VR simulation systems provide risk-free environments where trainees can practice repeatedly, analyze errors, and improve skills without harming patients."
+        "text": ". 2.3 Patient Safety Concerns Patient safety is a fundamental priority in healthcare systems worldwide. Medical errors during training procedures can result in serious complications, extended recovery periods, or even life-threatening situations. Beginners performing surgical tasks on real patients may unintentionally increase the risk of mistakes due to limited experience. This creates ethical and professional concerns regarding the balance between training needs and patient welfare. Traditional training environments offer limited opportunities to learn from mistakes without consequences. In contrast, AR and VR simulation systems provide risk-free environments where trainees can practice repeatedly, analyze errors, and improve skills without harming patients"
       },
       {
         "document": "ar_vr_medical_training.pdf",
         "page": 6,
         "chunk_id": "chunk_19",
         "distance": 0.1765,
-        "text": "AR and VR simulation systems can enhance skill acquisition, improve confidence, and support patient safety."
+        "text": "Augmented Reality and Virtual Reality technologies offer a potential solution by creating interactive simulation systems that replicate real surgical environments. These systems enhance skill acquisition, improve confidence, and ensure patient safety. Therefore, the motivation behind this study is to analyze how AR/VR-based medical training systems can overcome existing limitations and contribute to improved healthcare education and outcomes."
       },
       {
         "document": "ar_vr_medical_training.pdf",
         "page": 5,
         "chunk_id": "chunk_16",
         "distance": 0.1895,
-        "text": "Immersive technologies reduce dependence on real patients during early training and allow practice under standardized conditions."
+        "text": "By reducing the dependency on real patients during early training stages, immersive technologies significantly enhance patient safety while maintaining educational quality. AR and VR systems provide realistic, interactive, and controlled environments where medical students can practice procedures multiple times under standardized conditions. These systems simulate operating rooms, emergency scenarios, and patient anatomy with high accuracy. Immersive technologies allow learners to experience complex or rare cases that may not frequently occur in real clinical settings"
       },
       {
         "document": "ar_vr_medical_training.pdf",
         "page": 11,
         "chunk_id": "chunk_34",
         "distance": 0.1954,
-        "text": "Simulations let trainees practice repeatedly, refine techniques, and gain confidence before performing procedures on actual patients."
+        "text": "4.1 Surgical Training and Simulation One of the most impactful applications of AR and VR technologies is in surgical training and simulation. Traditional surgical education often limits hands-on practice due to patient safety concerns and resource constraints. AR and VR systems allow medical trainees to perform simulated surgical procedures in controlled virtual environments that closely resemble real operating rooms. These simulations enable learners to practice repeatedly, refine their techniques, and gain confidence before performing procedures on actual patients. Virtual Reality systems replicate surgical workflows, instruments, and anatomical structures with high realism, allowing users to experience complete procedural training"
       }
     ]
   },
@@ -76,28 +76,28 @@
         "page": 18,
         "chunk_id": "chunk_64",
         "distance": 0.9072,
-        "text": "The haptic system operates through a feedback loop in a surgical simulation."
+        "text": "The haptic system operates through a feedback loop. When a user applies force using a virtual instrument, sensors detect the input and transmit it to the simulation engine. The physics engine calculates the"
       },
       {
         "document": "ar_vr_medical_training.pdf",
         "page": 22,
         "chunk_id": "chunk_79",
         "distance": 0.9445,
-        "text": "The system records parameters such as accuracy, speed, tool handling, and procedural efficiency."
+        "text": "These systems can record and analyze various parameters such as accuracy, speed, tool handling, and procedural efficiency during simulated surgeries. Based on this data,"
       },
       {
         "document": "ar_vr_medical_training.pdf",
         "page": 19,
         "chunk_id": "chunk_65",
         "distance": 0.95,
-        "text": "Haptic feedback helps trainees develop muscle memory and fine motor skills."
+        "text": "The corresponding response and sends signals to the haptic device, which produces the appropriate tactile sensation. This sensory feedback enhances realism and helps trainees develop muscle memory and fine motor skills essential for surgery. 7.6 Performance Assessment System Performance assessment systems evaluate trainee actions and provide objective feedback based on measurable metrics. The system records parameters such as time taken to complete procedures, precision of movements, tool handling accuracy, and force applied. Data analytics algorithms process this information to generate performance scores and detailed reports. Advanced systems may incorporate machine learning algorithms to identify patterns in user behavior and suggest personalized improvement strategies"
       },
       {
         "document": "ar_vr_medical_training.pdf",
         "page": 23,
         "chunk_id": "chunk_84",
         "distance": 0.9625,
-        "text": "Immersive technologies may play an increasingly important role in healthcare and medical training."
+        "text": "These advancements indicate that immersive technologies will play an increasingly important role in shaping the future of healthcare and medical training."
       }
     ]
   }
